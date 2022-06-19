@@ -1,0 +1,21 @@
+Composição do elemento HTML
+
+	tag de abertura e fechamento, um atributo e o conteúdo
+
+Estrutura básica
+
+	DOCTYPE(Ñ é elemento)
+		elemento HTML contendo elemento head(contendo metainformações), body (conteudo da página)
+
+
+Semântica:
+Elementos criados com o HTML5 para trazer mais significado:
+	<section>, <header>,<article>, <aside>,<footer>
+	<h1><h6> Não foram criados com o HTML5 e ñ são específicos para semântica mas ajudam nesse objetivo
+	usar somente um <h1> por página
+
+Textos e links em HTML
+	P/ texto maiores <p>-representa parágrafo mas suporta tbm imagens, códigos, vídeos entre outros tipos de conteúdo
+	P/ interligar conteúdos e paginas <a>-representa âncora e possui vários atributos entre eles "href" e "target"
+		href-hyperlink para onde a âncora aponta
+		target-abrir links em outras abas com o valor _blank
